@@ -1,0 +1,4 @@
+Original URL:
+https://web.archive.org/web/2022*/https://dataverse.harvard.edu/api/access/datafile/4264835
+Archive URL:
+https://web.archive.org/web/20221108130703/https://dvn-cloud.s3.amazonaws.com/10.7910/DVN/6ACUZJ/17672948a08-97ee2ba93053?response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Subject%2520%25281%2529.rar&response-content-type=application%2Fx-rar-compressed&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221108T130703Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Credential=AKIAIEJ3NV7UYCSRJC7A%2F20221108%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6f552c8facfc0f8348540faaba433723ba8ac9ad157501e88dd5cd59853cf398
